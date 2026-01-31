@@ -4,7 +4,7 @@ Tool for reading/writing SFP EEPROM via CH341 USB-I2C adapter. These are sold in
 Original software was encrypted, so I could not run it in trusted environment. 
 The only missing feature of original software is database of vendor-specific passwords, but for OEM SFP modules it should not be needed.
 
-!(photo.jpg?raw=true)
+![BACBTECH PAC-SCP SFP adapter](photo.jpg?raw=true)
 
 ## Prerequisites
 
