@@ -4,6 +4,8 @@ Tool for reading/writing SFP EEPROM via CH341 USB-I2C adapter. These are sold in
 Original software was encrypted, so I could not run it in trusted environment. 
 The only missing feature of original software is database of vendor-specific passwords, but for OEM SFP modules it should not be needed.
 
+You can use it to burn required vendor code into OEM modules / DAC cables to work on your NIC's out of the box. You might need to burn DAC cables twice.
+
 ![BACBTECH PAC-SCP SFP adapter](photo.jpg?raw=true)
 
 ## Prerequisites
