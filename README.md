@@ -127,6 +127,7 @@ sudo i2cset -y 17 0x50 0x60 0xAB
 # i2c-ch341-usb Driver Installation for SFP Access
 
 This guide covers building, signing, and installing the i2c-ch341-usb driver on systems with Secure Boot enabled.
+Without secure boot - you just skip all the signing. 
 
 ## Prerequisites
 
