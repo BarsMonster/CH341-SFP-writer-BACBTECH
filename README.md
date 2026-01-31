@@ -6,6 +6,8 @@ The only missing feature of original software is database of vendor-specific pas
 
 You can use it to burn required vendor code into OEM modules / DAC cables to work on your NIC's out of the box. You might need to burn DAC cables twice.
 
+If you specify i2c device id manually, it should work with any i2c controller exposed to linux via drivers as i2c device.
+
 ![PACBTECH PAC-SCP SFP adapter](photo.jpg?raw=true)
 
 ## Prerequisites
